@@ -34,7 +34,7 @@ Execute o front-end
 baseURL: 'http://localhost:3333'
 
 # diretório do front-end
-cd food-explorer-front-end-main
+cd food-explorer-front-end
 
 # Instale as dependências necessárias
 npm install
@@ -59,4 +59,4 @@ O front-end foi hospedado na plataforma Netlify, que oferece hospedagem gratuita
 [CLIQUE AQUI E VEJA O RESULTADO FINAL](https://foodexplorerxz.netlify.app/)
 
 
-@[@GabrielTrabalon](https://github.com/gabrieltrabalon)
+[@GabrielTrabalon](https://github.com/gabrieltrabalon)
